@@ -1,6 +1,6 @@
 # Osiris: A Scalable Dataset Generation Pipeline for Machine Learning in Analog Circuit Design
 
-**Osiris** is an end-to-end analog circuits design pipeline capable of producing, validating, and evaluating layouts for generic analog circuits.
+**Osiris** is an end-to-end analog circuit design pipeline capable of producing, validating, and evaluating large volumes of layouts for generic analog circuits.
 
 The [Osiris GitHub repository](https://github.com/hardware-fab/osiris) hosts the code that implements the randomized pipeline as well as the reinforcement learning-driven baseline methodology discussed 
 in the paper proposed at the NeurIPS 2025 Datasets & Benchmarks Track.
