@@ -7,7 +7,7 @@ in the paper proposed at the NeurIPS 2025 Datasets & Benchmarks Track.
 
 The [Osiris 🤗 HuggingFace repository](https://huggingface.co/datasets/hardware-fab/osiris) hosts the randomly generated dataset discussed in the paper.
 
-In this repository, there is the Osiris Python script (`osiris.py`) and the Python-like version of the SkyWater 130nm PDK (`SKY130_PDK`) along with the necessary files to perform place and route operations (in `schematic2layout` folder).
+In this repository, there is the Osiris Python script (`osiris.py`) and the Python friendly version of the SkyWater 130nm PDK (`SKY130_PDK`) along with the necessary files to perform place and route operations (in `schematic2layout` folder).
 
 ## Installation
 To run Osiris a suite of tools is necessary. 
@@ -39,6 +39,8 @@ To install it, please refer to the official [website](https://ngspice.sourceforg
 
 ### SkyWater 130nm PDK
 To install the SkyWater 130 nm PDK used throughout the research, please refer to the official [GitHub repository](https://github.com/google/skywater-pdk).
+These PDK files are used by Netgen, Magic, and Ngspice to perform LVS, PEX, and simulation respectively. While the `SKY130_PDK` files are 
+a Python friendly version of the SkyWater 130nm PDK to perform the place and route operations.
 
 ## Usage
 You will need to adjust a few paths to our working setup. 
