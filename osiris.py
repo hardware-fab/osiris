@@ -508,7 +508,7 @@ def step_environment(tile_action, direction_action, episode, chosen_sample, num_
     
     if result.returncode == 0:
         sample = chosen_sample.split("/")[-1]
-        variant_folder = os.path.join("/work/gchiari/ADG_PERSONAL_mpiccoli/", run_path, f"iter_{f_episode}_{sample}", f"{sample}_{episode}")
+        variant_folder = os.path.join("{WD}", run_path, f"iter_{f_episode}_{sample}", f"{sample}_{episode}")
         reward, reward_pex, reward_area, done = get_reward(num_steps, bl_metrics, variant_folder) # compute reward
         np.save(os.path.join(variant_folder, "applied_transforms.npy"), np.array(accumulated_transforms))
     else:
