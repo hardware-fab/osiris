@@ -50,6 +50,9 @@ You will need to adjust a few paths to our working setup.
 - in `pex.sh`: the path pointing to SkyWater root, i.e., `sky130A`.
 - in `1_reroute_sch2lay.sh`: the path pointing to `SKY130_PDK`.
 
+Then you will need to compute the fingers permutations. 
+To do so, refer to the `2_flow/0_alter/0_alter_nf.py` script.
+
 To experiment with Osiris, use the `osiris.py` file.
 
 To perform random exploration of circuit design space, set: 
