@@ -1,0 +1,21 @@
+.lib "/path/to/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
+
+.subckt miller_ota INM INP GND VDD OUT
+XXX
+.ends
+
+xmiller_ota (OUT IN+ GND VDD OUT) miller_ota ;
+
+Vin IN+ GND dc 0.9 ac 1 ;
+Vcc VDD GND dc 1.8 ;
+
+.ac dec 50 1000 1000MEG ;
+
+.control
+    run
+    set filetype=ascii
+    write ./simout_post.out v(OUT)
+    quit
+.endc
+
+.end

@@ -1,0 +1,27 @@
+.lib "/path/to/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
+
+* copy in your subckt definition, or .include it here
+.subckt five_transistors_ota GND VDD VOUT VINN VINP VBIAS
+XXX
+.ends
+
+* instantiate the five-transistor OTA
+xfive_transistors_ota (GND VDD VOUT VOUT VINP VBIAS) five_transistors_ota
+
+* bias and excitation sources
+Vb  VBIAS GND dc 1.8
+Vin VINP GND  dc 0.9 ac 1     ;* DC-bias VINP to 0.9 V, small-signal = 1 V
+Vcc VDD  GND  dc 1.8
+
+
+* AC sweep: 1 kHz → 1 GHz, 50 points/decade
+.ac dec 50 1000 10000MEG ;
+
+.control
+    run
+    set filetype=ascii
+    write simout_post.out v(VOUT)
+    quit
+.endc
+
+.end

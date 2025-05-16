@@ -1,0 +1,22 @@
+.lib "/path/to/pdk/sky130A/libs.tech/ngspice/sky130.lib.spice" tt
+
+.subckt ota_ff VDD VSS VP VN
+XXX
+.ends
+
+xota_ff (VDD VSS VP VN) ota_ff ;
+
+V2 VP  0 dc 0.9 ac 1
+V1 VSS 0 dc 0
+V0 VDD 0 dc 1.8
+
+.ac dec 50 1000 10GIG ;
+
+.control
+    run
+    set filetype=ascii
+    write ./simout_pre.out v(VN)
+    quit
+.endc
+
+.end

@@ -1,0 +1,174 @@
+2025-05-16 13:36:11 align.main INFO : Reading netlist: /work/gchiari/NeurIPS/osiris/1_input/netlist/five_transistors_ota/unfiltered_netlists/five_transistors_ota_501/five_transistors_ota_501.sp subckt=FIVE_TRANSISTORS_OTA_501, flat=0
+2025-05-16 13:36:11 align.compiler.compiler INFO : Starting topology identification...
+2025-05-16 13:36:12 align.compiler.user_const INFO : Reading constraint file: [PosixPath('/work/gchiari/NeurIPS/osiris/1_input/netlist/five_transistors_ota/unfiltered_netlists/five_transistors_ota_501/five_transistors_ota_501.const.json')]
+2025-05-16 13:36:12 align.compiler.compiler INFO : Power and ground nets not found. Power grid will not be constructed.
+2025-05-16 13:36:12 align.compiler.compiler INFO : Completed topology identification.
+2025-05-16 13:36:12 align.pnr.main INFO : Running Place & Route for FIVE_TRANSISTORS_OTA_501
+2025-05-16 13:36:12 align.pnr.build_pnr_model INFO : Reading contraint json file FIVE_TRANSISTORS_OTA_501.pnr.const.json
+2025-05-16 13:36:12 align.pnr.build_pnr_model INFO : Reading contraint json file FIVE_TRANSISTORS_OTA_501.pnr.const.json
+2025-05-16 13:36:12 align.pnr.placer INFO : Starting bottom-up placement on FIVE_TRANSISTORS_OTA_501 0
+2025-05-16 13:36:12 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : Required 1 perturbations to generate a feasible solution.
+2025-05-16 13:36:15 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 10 %
+2025-05-16 13:36:17 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 20 %
+2025-05-16 13:36:19 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 30 %
+2025-05-16 13:36:21 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 40 %
+2025-05-16 13:36:24 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 50 %
+2025-05-16 13:36:28 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 60 %
+2025-05-16 13:36:31 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 70 %
+2025-05-16 13:36:34 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 80 %
+2025-05-16 13:36:37 PnR.placer.Placer.PlacementCoreAspectRatio_ILP INFO : ..... 90 %
+2025-05-16 13:36:40 align.pnr.build_pnr_model INFO : Reading contraint json file FIVE_TRANSISTORS_OTA_501.pnr.const.json
+2025-05-16 13:36:40 align.pnr.router INFO : Starting top_down routing on FIVE_TRANSISTORS_OTA_501 0 restricted to None
+2025-05-16 13:36:40 PnR.router.Router.RouteWork INFO : GcellGlobalRouter: FIVE_TRANSISTORS_OTA_501
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.GlobalGraph.dijkstra WARNING : Router-Warning: feasible path might not be found
+2025-05-16 13:36:40 PnR.router.Router.RouteWork INFO : GcellDetailRouter: FIVE_TRANSISTORS_OTA_501
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=39
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=33
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=39
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=24
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=18
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 4
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=33
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=21
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=51
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=51
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=39
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=51
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=39
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=27
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 1
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=6
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=12
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 4
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 1
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 4
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 1
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=51
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=39
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=33
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=51
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=33
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=3
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=69
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 4
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=9
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 5
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=51
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=33
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.setSrcDest INFO : Dio bestia 2
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=21
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 6
+2025-05-16 13:36:40 PnR.router.Grid.Mapping_function_pin INFO : Dio bestia 7, map_source.size()=33
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Grid.Map_from_seg2gridseg_pin_detail INFO : Setting margin = grid_unit_x / 2 -> 860 / 2 = 430
+2025-05-16 13:36:40 PnR.router.Router.RouteWork INFO : Create power grid: FIVE_TRANSISTORS_OTA_501
+2025-05-16 13:36:40 PnR.router.Router.RouteWork INFO : Power routing FIVE_TRANSISTORS_OTA_501
+2025-05-16 13:36:41 align.cell_fabric.remove_duplicates ERROR : Found errors: SHORT: 0 OPEN: 3 DIFFERENT WIDTH: 16
+2025-05-16 13:36:41 align.pnr.main INFO : OUTPUT json at /work/gchiari/NeurIPS/osiris/1_input/netlist/five_transistors_ota/unfiltered_netlists/five_transistors_ota_501/3_pnr/FIVE_TRANSISTORS_OTA_501_0.json
+2025-05-16 13:36:41 align.pnr.main ERROR : 3 LVS / DRC errors found !!!
+2025-05-16 13:36:41 align.pnr.main INFO : OUTPUT error file at /work/gchiari/NeurIPS/osiris/1_input/netlist/five_transistors_ota/unfiltered_netlists/five_transistors_ota_501/3_pnr/FIVE_TRANSISTORS_OTA_501_0.errors
+2025-05-16 13:36:41 align.pnr.main INFO : OUTPUT gds.json /work/gchiari/NeurIPS/osiris/1_input/netlist/five_transistors_ota/unfiltered_netlists/five_transistors_ota_501/3_pnr/FIVE_TRANSISTORS_OTA_501_0.python.gds.json

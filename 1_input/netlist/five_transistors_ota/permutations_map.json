@@ -1,0 +1,3586 @@
+{
+    "five_transistors_ota_0": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_1": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_2": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_3": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_4": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_5": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_6": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_7": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_8": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_9": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_10": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_11": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_12": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_13": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_14": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_15": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_16": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_17": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_18": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_19": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_20": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_21": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_22": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_23": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_24": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_25": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_26": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_27": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_28": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_29": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_30": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_31": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_32": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_33": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_34": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_35": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_36": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_37": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_38": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_39": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_40": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_41": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_42": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_43": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_44": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_45": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_46": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_47": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_48": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_49": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_50": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_51": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_52": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_53": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_54": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_55": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_56": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_57": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_58": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_59": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_60": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_61": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_62": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_63": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_64": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_65": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_66": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_67": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_68": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_69": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_70": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_71": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_72": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_73": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_74": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_75": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_76": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_77": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_78": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_79": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_80": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_81": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_82": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_83": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_84": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_85": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_86": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_87": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_88": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_89": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_90": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_91": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_92": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_93": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_94": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_95": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_96": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_97": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_98": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_99": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_100": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_101": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_102": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_103": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_104": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_105": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_106": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_107": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_108": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_109": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_110": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_111": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_112": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_113": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_114": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_115": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_116": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_117": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_118": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_119": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_120": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_121": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_122": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_123": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_124": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_125": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_126": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_127": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_128": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_129": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_130": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_131": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_132": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_133": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_134": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_135": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_136": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_137": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_138": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_139": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_140": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_141": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_142": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_143": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_144": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_145": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_146": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_147": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_148": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_149": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_150": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_151": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_152": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_153": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_154": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_155": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_156": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_157": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_158": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_159": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_160": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_161": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_162": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_163": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_164": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_165": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_166": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_167": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_168": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_169": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_170": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_171": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_172": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_173": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_174": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_175": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_176": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_177": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_178": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_179": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_180": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_181": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_182": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_183": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_184": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_185": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_186": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_187": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_188": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_189": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_190": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_191": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_192": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_193": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_194": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_195": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_196": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_197": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_198": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_199": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_200": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_201": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_202": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_203": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_204": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_205": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_206": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_207": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_208": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_209": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_210": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_211": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_212": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_213": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_214": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_215": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_216": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_217": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_218": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_219": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_220": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_221": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_222": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_223": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_224": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_225": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_226": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_227": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_228": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_229": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_230": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_231": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_232": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_233": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_234": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_235": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_236": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_237": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_238": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_239": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_240": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_241": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_242": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_243": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_244": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_245": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_246": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_247": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_248": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_249": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_250": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_251": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_252": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_253": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_254": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_255": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_256": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_257": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_258": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_259": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_260": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_261": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_262": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_263": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_264": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_265": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_266": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_267": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_268": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_269": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_270": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_271": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_272": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_273": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_274": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_275": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_276": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_277": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_278": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_279": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_280": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_281": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_282": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_283": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_284": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_285": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_286": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_287": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_288": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_289": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_290": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_291": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_292": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_293": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_294": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 2
+    },
+    "five_transistors_ota_295": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_296": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_297": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_298": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_299": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_300": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_301": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_302": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_303": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_304": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_305": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_306": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_307": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_308": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_309": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_310": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_311": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_312": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_313": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_314": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 4
+    },
+    "five_transistors_ota_315": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_316": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_317": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_318": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_319": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_320": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 2
+    },
+    "five_transistors_ota_321": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_322": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_323": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_324": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_325": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_326": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_327": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_328": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 12
+    },
+    "five_transistors_ota_329": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 14
+    },
+    "five_transistors_ota_330": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_331": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_332": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_333": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_334": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_335": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_336": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_337": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_338": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_339": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_340": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_341": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_342": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_343": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_344": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_345": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_346": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_347": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_348": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 10
+    },
+    "five_transistors_ota_349": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_350": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_351": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_352": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_353": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_354": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_355": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_356": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 6
+    },
+    "five_transistors_ota_357": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_358": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_359": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_360": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_361": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_362": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_363": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_364": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_365": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_366": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_367": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_368": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_369": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_370": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_371": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_372": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_373": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_374": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_375": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_376": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_377": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_378": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_379": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_380": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_381": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 2
+    },
+    "five_transistors_ota_382": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_383": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_384": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_385": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_386": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_387": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_388": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_389": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_390": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_391": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_392": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_393": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_394": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_395": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_396": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_397": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_398": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_399": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_400": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_401": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 10
+    },
+    "five_transistors_ota_402": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_403": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_404": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_405": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_406": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 2
+    },
+    "five_transistors_ota_407": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_408": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_409": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_410": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_411": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_412": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_413": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_414": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 6
+    },
+    "five_transistors_ota_415": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_416": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_417": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_418": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_419": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_420": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_421": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 16
+    },
+    "five_transistors_ota_422": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 10,
+        "M4": 10,
+        "M0": 16
+    },
+    "five_transistors_ota_423": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 8
+    },
+    "five_transistors_ota_424": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_425": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 10
+    },
+    "five_transistors_ota_426": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_427": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 2
+    },
+    "five_transistors_ota_428": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 8,
+        "M4": 8,
+        "M0": 4
+    },
+    "five_transistors_ota_429": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_430": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_431": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 14,
+        "M4": 14,
+        "M0": 8
+    },
+    "five_transistors_ota_432": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_433": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 12,
+        "M4": 12,
+        "M0": 2
+    },
+    "five_transistors_ota_434": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_435": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_436": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_437": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_438": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_439": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 16
+    },
+    "five_transistors_ota_440": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 12,
+        "M4": 12,
+        "M0": 4
+    },
+    "five_transistors_ota_441": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 12
+    },
+    "five_transistors_ota_442": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_443": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 12
+    },
+    "five_transistors_ota_444": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_445": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_446": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_447": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_448": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 8,
+        "M4": 8,
+        "M0": 10
+    },
+    "five_transistors_ota_449": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_450": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_451": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 2,
+        "M4": 2,
+        "M0": 8
+    },
+    "five_transistors_ota_452": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_453": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 14,
+        "M4": 14,
+        "M0": 10
+    },
+    "five_transistors_ota_454": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_455": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_456": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_457": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 12
+    },
+    "five_transistors_ota_458": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 8,
+        "M4": 8,
+        "M0": 16
+    },
+    "five_transistors_ota_459": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 12
+    },
+    "five_transistors_ota_460": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_461": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 12
+    },
+    "five_transistors_ota_462": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_463": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_464": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 16
+    },
+    "five_transistors_ota_465": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 6
+    },
+    "five_transistors_ota_466": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_467": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_468": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_469": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 4,
+        "M4": 4,
+        "M0": 4
+    },
+    "five_transistors_ota_470": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 6,
+        "M4": 6,
+        "M0": 8
+    },
+    "five_transistors_ota_471": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_472": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_473": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    },
+    "five_transistors_ota_474": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 4
+    },
+    "five_transistors_ota_475": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 14,
+        "M4": 14,
+        "M0": 14
+    },
+    "five_transistors_ota_476": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_477": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 2
+    },
+    "five_transistors_ota_478": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 4,
+        "M4": 4,
+        "M0": 16
+    },
+    "five_transistors_ota_479": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_480": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 10,
+        "M4": 10,
+        "M0": 10
+    },
+    "five_transistors_ota_481": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 12,
+        "M4": 12,
+        "M0": 6
+    },
+    "five_transistors_ota_482": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_483": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 2,
+        "M4": 2,
+        "M0": 14
+    },
+    "five_transistors_ota_484": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 2
+    },
+    "five_transistors_ota_485": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_486": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_487": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 14,
+        "M4": 14,
+        "M0": 6
+    },
+    "five_transistors_ota_488": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 4,
+        "M4": 4,
+        "M0": 12
+    },
+    "five_transistors_ota_489": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_490": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 4
+    },
+    "five_transistors_ota_491": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 12,
+        "M4": 12,
+        "M0": 14
+    },
+    "five_transistors_ota_492": {
+        "M1": 4,
+        "M2": 4,
+        "M3": 12,
+        "M4": 12,
+        "M0": 10
+    },
+    "five_transistors_ota_493": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 8,
+        "M4": 8,
+        "M0": 8
+    },
+    "five_transistors_ota_494": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_495": {
+        "M1": 6,
+        "M2": 6,
+        "M3": 4,
+        "M4": 4,
+        "M0": 8
+    },
+    "five_transistors_ota_496": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 8
+    },
+    "five_transistors_ota_497": {
+        "M1": 16,
+        "M2": 16,
+        "M3": 16,
+        "M4": 16,
+        "M0": 14
+    },
+    "five_transistors_ota_498": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 10
+    },
+    "five_transistors_ota_499": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_500": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 6,
+        "M4": 6,
+        "M0": 14
+    },
+    "five_transistors_ota_501": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 6,
+        "M4": 6,
+        "M0": 16
+    },
+    "five_transistors_ota_502": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 16,
+        "M4": 16,
+        "M0": 8
+    },
+    "five_transistors_ota_503": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 6,
+        "M4": 6,
+        "M0": 6
+    },
+    "five_transistors_ota_504": {
+        "M1": 8,
+        "M2": 8,
+        "M3": 2,
+        "M4": 2,
+        "M0": 12
+    },
+    "five_transistors_ota_505": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 14,
+        "M4": 14,
+        "M0": 4
+    },
+    "five_transistors_ota_506": {
+        "M1": 12,
+        "M2": 12,
+        "M3": 2,
+        "M4": 2,
+        "M0": 16
+    },
+    "five_transistors_ota_507": {
+        "M1": 14,
+        "M2": 14,
+        "M3": 8,
+        "M4": 8,
+        "M0": 14
+    },
+    "five_transistors_ota_508": {
+        "M1": 2,
+        "M2": 2,
+        "M3": 8,
+        "M4": 8,
+        "M0": 6
+    },
+    "five_transistors_ota_509": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 10,
+        "M4": 10,
+        "M0": 4
+    },
+    "five_transistors_ota_510": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 16,
+        "M4": 16,
+        "M0": 6
+    },
+    "five_transistors_ota_511": {
+        "M1": 10,
+        "M2": 10,
+        "M3": 4,
+        "M4": 4,
+        "M0": 14
+    }
+}

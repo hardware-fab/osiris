@@ -1,0 +1,4 @@
+[
+    {"constraint": "ConfigureCompiler", "merge_parallel_devices": false},
+    {"constraint": "DoNotIdentify", "instances": ["M5", "M39", "M82", "M81", "M40", "M50", "M36", "M38", "M35", "M34", "M6", "M37", "M1"]}
+]
